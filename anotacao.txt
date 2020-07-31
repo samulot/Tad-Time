@@ -1,0 +1,57 @@
+Operadores Matemáticos
+
+Operador	Operação
++		Soma
+-		Subtração
+*		Multiplicação
+/		Divisão
+**		Exponenciação
+%		Módulo
+
+Operador de atribuição
+=
+
+x = 10
+Se ler "X recebe o valor 10"
+
+Operadores relacionais
+
+Operador	Operação
+==		Igual
+!=		Diferente
+>		Maior
+<		Menor
+>=		Maior ou igual
+<=		Menor ou igual
+
+
+Operadores Logicos
+
+Operador	Operação
+AND		Duas condições sejam verdadeiras
+OR		Pelo menos uma condição seja verdadeira
+NOT		Inverte o Valor
+		
+Comandos condicionais ou Estruturas Condicionais
+
+if - Realiza Testes condicionais, executa um bloco SE de uma determinada condição for atendida, avalia se condição é verdadeira ou não.
+
+Bloco - Trecho de código que depende de outro trecho
+
+else - é executada caso a condição do comando if não seja atendida
+
+elif - caso haja necessidade de mais condições entre o if e o else (sempre a primeira condição verdadeira que encontrar).
+
+Laços de repetição (iterar == repetir)
+
+Estrutura de repetição
+iteradores
+repetem um trecho do codigo
+while (enquanto)
+for (para)
+função range
+
+Comando INPUT
+int - força ao python idenficar como numero*
+
+
